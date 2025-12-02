@@ -37,6 +37,7 @@ Permite jogar **Player vs Player** ou **Player vs Bot**.
 <p align="center">
 <img width="774" height="510" alt="image" src="https://github.com/user-attachments/assets/99f4c745-804b-46f9-b662-53dc27c4bdd6" />
 </p>
+
 ---
 
 ## 🏆 O que aprendi com este projeto
